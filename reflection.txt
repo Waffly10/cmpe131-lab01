@@ -1,0 +1,1 @@
+Using branches is power and a safe way for a team of software engineers for collaboration because they can all make thier own branches without affecting the main/working code. This prevents messing up the code, which takes a long time of debugging.
